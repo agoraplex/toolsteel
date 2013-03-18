@@ -1,0 +1,15 @@
+build/
+
+# HTML from ReST files
+notes.html
+README.html
+
+# JavaScript and source maps outside of `js/` are generated
+*.js
+*.map
+!js/*.js
+
+# .gitignore, .gitconfig, etc.
+!.git*
+*~
+\#*

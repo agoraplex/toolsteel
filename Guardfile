@@ -1,7 +1,7 @@
 guard :shell, :all_on_start => true do
   # Source map support in `guard-coffeescript` is broken.
-  watch(%r{(.+)\.coffee$}) do |m|
-    `coffee --compile --map #{m[0]}`
+  watch(%r{(Makefile|(.+)\.(coffee|html|svg))$}) do |m|
+    `make`
   end
 
   # verify manifest.json (and any other JSON files)

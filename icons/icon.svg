@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1280"
+   height="1280"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2997"
+     showgrid="true"
+     inkscape:zoom="0.44296875"
+     inkscape:cx="1087.8598"
+     inkscape:cy="607.67888"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2999"
+       units="px"
+       empspacing="16"
+       dotted="true"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="10px"
+       spacingy="10px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,227.63785)"
+     id="layer1">
+    <rect
+       width="1280"
+       height="1280"
+       x="0"
+       y="-227.63785"
+       id="rect3772"
+       style="fill:#d02121;fill-opacity:1;stroke:none" />
+    <rect
+       width="1240"
+       height="1240"
+       x="20"
+       y="-207.63785"
+       id="rect3770"
+       style="fill:#600000;fill-opacity:1;stroke:none" />
+    <rect
+       width="1220"
+       height="1220"
+       x="40"
+       y="-187.63785"
+       id="rect3774"
+       style="fill:#8a0000;fill-opacity:1;stroke:none" />
+    <rect
+       width="1210"
+       height="1210"
+       x="40"
+       y="-187.63785"
+       id="rect2996"
+       style="fill:#a20000;fill-opacity:1;stroke:none" />
+    <text
+       x="229.43738"
+       y="483.68619"
+       transform="scale(0.74696907,1.3387435)"
+       id="text3766"
+       xml:space="preserve"
+       style="font-size:912.17388916px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#610000;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Bold"
+       sodipodi:linespacing="125%"><tspan
+         x="229.43738"
+         y="483.68619"
+         id="tspan3768">e.g.</tspan></text>
+    <text
+       x="175.88765"
+       y="453.80753"
+       transform="scale(0.74696908,1.3387435)"
+       id="text2992"
+       xml:space="preserve"
+       style="font-size:912.17388916px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Bold"
+       sodipodi:linespacing="125%"><tspan
+         x="175.88765"
+         y="453.80753"
+         id="tspan2994">e.g.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="921.05823"
+       y="29.347443"
+       id="text2999"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-227.63785)"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="921.05823"
+         y="29.347443">q</tspan></text>
+  </g>
+</svg>
